@@ -2,7 +2,9 @@
 ## Modified version of Keyboard.h for Arduino, based on V-Bus framework.
 
    @author: MrMoDDoM
+   
    @copyright: 2017<br>
+   
    @version: 0.5
 
   ----------------------------------------------------------
@@ -16,28 +18,14 @@ It's completly compatible with every sketch written for the standard Keyboard.h 
 It's necessary to use a small circuit to interface with the USB cable:
 
 ![Circuit](https://github.com/MrMoDDoM/MuKeyboard/blob/master/schematic.jpg)
-
-_Thank to http://www.practicalarduino.com for the image and concept_
-
-### Refer to the example sketch to understan the usange
-
-**This project is still under beta phase, where will be a lot of change**
+_Image courtesy of http://www.practicalarduino.com_
 
 # Installation
 Simply ``` git clone https://github.com/MrMoDDoM/MuKeyboard.git ``` directly into your Arduino's library folder & compile!
+> **This project is still under beta phase, where will be a lot of change**
 
 # Disclaimer
-In this project is present code for the Arduino INC and from Objective Development Software GmbH, covered with different type of licens: probably I have made some mistakes using and re-covering code with GNU/GPL v3, so please write me before take legal actions against my project.
-**My intentions were not to steal work from anyone**
-
-# Contact
-Reach me [on Twitter](https://twitter.com/MrMoDDoM) or [on my website](https://mrmoddom.github.io/)
-
-# V-bus
-https://www.obdev.at/products/vusb/index.html
-
-# Arduino 
-https://www.arduino.cc/
+In this project is present code for the Arduino INC and from Objective Development Software GmbH, covered with different type of licens: probably I have made some mistakes using and re-covering code with GNU/GPL v3, **my intentions were not to steal work from anyone**
 
 
 # Copyright
@@ -58,3 +46,10 @@ https://www.arduino.cc/
     You should have received a copy of the GNU General Public License
     along with MuHi.  If not, see <http://www.gnu.org/licenses/> or 
     <http://www.muhack.org/> for futher datails.
+    
+# Links
+- [V-Bus](https://www.obdev.at/products/vusb/index.html)
+- [Arduino](https://www.arduino.cc/)
+- [Keyboard.h](https://www.arduino.cc/en/Reference/Keyboard)
+- [Arduino HID](https://www.arduino.cc/en/Reference/HID)
+ 
