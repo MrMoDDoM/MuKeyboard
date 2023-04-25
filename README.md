@@ -44,7 +44,7 @@ In this project is present code for the Arduino INC and from Objective Developme
     GNU General Public License for more details.
 
     You should have received a copy of the GNU General Public License
-    along with MuHi.  If not, see <http://www.gnu.org/licenses/> or 
+    along with the source code.  If not, see <http://www.gnu.org/licenses/> or 
     <http://www.muhack.org/> for futher datails.
     
 # Links
